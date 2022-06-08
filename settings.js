@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              𝙼𝙴𝙴𝙳 𝙱𝙾𝚃 𝒷𝓎 𝓂ℴ𝒽𝒶𝓂ℯℯ𝒹
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙼𝙴𝙴𝙳𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙼𝙾𝙷𝙰𝙼𝙴𝙴𝙳
 //
 //════════════════════════════//
 
@@ -19,32 +19,32 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['212609536856']
+global.premium = ['212609536856']
+global.ownernomer = '212609536856'
+global.ownername = '𝙼𝙾𝙷𝙰𝙼𝙴𝙴𝙳'
+global.botname = '𝙼𝙴𝙴𝙳-𝙱𝙾𝚃'
+global.footer = '©𝑚𝑒𝑒𝑑𝑏𝑜𝑡.'
+global.ig = 'https://www.instagram.com/moha____me_d/'
+global.region = 'Espan,Nadrid,𝒎𝒆𝒆𝒅'
+global.sc = 'https://github.com/Killua207x/Gojo-Satoru'
+global.myweb = 'https://www.instagram.com/moha____me_d/'
+global.packname = '[𝑴𝒆𝒆𝒅🤨💙][212609536856]'
+global.author = 'هـــز ولاڪــيـــن مــتــعـــيـــقـــش'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    admin: 'هـــذا الامـــر خـــاص بـــادمـــيـــن المـــجـــمـــوعـــة!',
+    botAdmin: 'هـــذا المـــر خـــص بادمـــيـــن الـــبـــوت!',
+    owner: 'هـــذا الامـــر خـــاص بـــصـــاحـــب الـــبـــوت!',
+    group: 'هـــذا الامـــر خـــاص بالمـــجـــمـــوعـــات!',
+    private: 'هـــذا الامـــر خـــاص بالـــمـــحـــادثة الخـــاصـــة!',
+    bot: 'هــذا الامـــر خـــاص بـــصـــاحـــب الـــبـــوت',
+    wait: 'جـــاري الـــتـــحـــمـــيـــل...',
+    error: 'خـــطأ!',
+    endLimit: 'وقــتــڪ الـــيـــومـــي انـــتـــهـــﯽ انـــتـــظـــر 12 ســـاعــة',
 }
     global.limitawal = {
     premium: "Infinity",
